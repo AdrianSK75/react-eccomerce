@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.todo-input {
+  margin-bottom: 40px;
+}
+
+.todo-list {
+  margin-top: 40px;
+}
+
+.container {
+  display: 'flex';
+  justify-content: 'between';
+  margin: 0 auto
+}
